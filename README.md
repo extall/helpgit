@@ -7,3 +7,4 @@ You can add your (nick)name below, if you want to show that you have completed t
 
 # Roll of Honor
 May 19, 2020: Aleksei (extall)
+May 20, 2020: Alexis Touzalin
